@@ -1,0 +1,7 @@
+<h3>Your results for the search term "<%= @query %>"</h3>
+
+<ul>
+<% @tracks.each do |track| %>
+   <li><%= link_to track.permalink_url, track.permalink_url, target: "_blank" %></li>
+<% end %>
+</ul>

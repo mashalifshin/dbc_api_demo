@@ -1,0 +1,11 @@
+<h3>Soundcloud Hottest Track Search</h3>
+
+<div id="search_form">
+	
+	<%= form_tag("/search", method: "get") do %>
+	  <%= label_tag(:query, "Find:") %>
+	  <%= text_field_tag(:query) %>
+	  <%= submit_tag("Search") %>
+	<% end %>
+	
+</div>
