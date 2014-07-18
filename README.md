@@ -13,7 +13,6 @@ WHY?
 * Interoperability and integration between different information silos of the web.  You can Twitter on your Facebook on your Google Calendar. IFTTT (https://ifttt.com/wtf)
 * Alternative or custom interfaces.
 * Mashups like http://padmapper.com, http://gifsound.com/
-
 * What do you think makes a good API?  What makes a bad one?  What could be some problems in using APIs?  In retrieving data?  In storing data?
 
 HOW?
